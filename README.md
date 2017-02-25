@@ -12,13 +12,13 @@ We haven't found a centralized source of comparison between the different tools 
 
 ### Orchestrator softwares
 
-|Orchestrator|Maintainer|V1 Release|Development Status|License|Support|
-|------------|----------|----------|------------------|-------|-------|
-|[**Docker Swarm**][1]|[Docker][2]|[2015][3]|Active but flagged as legacy|[Apache License 2.0][4]|Yes|
-|[**Docker Swarm Mode**][22]|[Docker][2]|[2016][71]|Active|[Apache License 2.0][4]|Yes|
-|[**Kubernetes**][5]|[CNCF][6]|[2015][7]|Active|[Apache License 2.0][4]|From third parties|
-|[**Mesos**][8]|[Apache Software Foundation][9]|[2016][10]|Active|[Apache License 2.0][4]|Yes|
-|[**Nomad**][11]|[Hashicorp][12]|N/A|Active|[Mozilla Public License 2.0][13]|Yes|
+|Orchestrator|Maintainer|V1 Release|Development Status|License|Support|Community Size|
+|------------|----------|----------|------------------|-------|-------|--------------|
+|[**Docker Swarm**][1]|[Docker][2]|[2015][3]|Active but flagged as legacy|[Apache License 2.0][4]|Yes|[4k+ Stars, 800+ Forks, 150+ Contributors][81]|
+|[**Docker Swarm Mode**][22]|[Docker][2]|[2016][71]|Active|[Apache License 2.0][4]|Yes|[1k+ Stars, 200+ Forks, 70+ Contributors][82]|
+|[**Kubernetes**][5]|[CNCF][6]|[2015][7]|Active|[Apache License 2.0][4]|From third parties|[20k+ Stars, 7k+ Forks, 1k+ Contributors][80]|
+|[**Mesos**][8]|[Apache Software Foundation][9]|[2016][10]|Active|[Apache License 2.0][4]|Yes|[2k+ Stars, 1k+ Forks, 200+ Contributors][83]|
+|[**Nomad**][11]|[Hashicorp][12]|N/A|Active|[Mozilla Public License 2.0][13]|Yes|[2k+ Stars, 400+ Forks, 100+ Contributors][84]|
 
 
 ### Orchestrator features
@@ -133,3 +133,8 @@ We haven't found a centralized source of comparison between the different tools 
 [77]: http://mesos.apache.org/documentation/latest/persistent-volume/
 [78]: https://github.com/hashicorp/nomad/issues/150#issuecomment-249041670
 [79]: https://github.com/kubernetes/minikube
+[80]: https://github.com/kubernetes/kubernetes
+[81]: https://github.com/docker/swarm
+[82]: https://github.com/docker/swarmkit
+[83]: https://github.com/apache/mesos
+[84]: https://github.com/hashicorp/nomad
